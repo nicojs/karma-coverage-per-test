@@ -1,1 +1,0 @@
-window.____testNumber = 4;
